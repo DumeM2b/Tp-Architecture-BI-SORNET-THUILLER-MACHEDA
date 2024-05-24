@@ -30,9 +30,9 @@ Nous avons créé des formats de fichier adaptés à la structure de nos donnée
 Nous avons créé les différentes tables de données dans Snowflake en respectant la description des colonnes de chaque fichier. Chaque table a été définie avec les colonnes appropriées, mais initialement, nous avons utilisé des types de données génériques, tels que VARCHAR, car les types de données réels n'étaient pas clairement définis dans les fichiers source.
 
 <p align="center">
-<img  align="left" width="365" alt="MicrosoftTeams-image (15)" src="https://github.com/DumeM2b/Tp-Architecture-BI-SORNET-THUILLER-MACHEDA/assets/163656850/25fbeed1-5bf7-4434-8e96-653b18380896">
-<img width="500" alt="MicrosoftTeams-image (14)" src="https://github.com/DumeM2b/Tp-Architecture-BI-SORNET-THUILLER-MACHEDA/assets/163656850/14c3f967-d41c-4bb9-9e38-0070e6ea4d2e">
-<img width="500"  alt="MicrosoftTeams-image (11)" src="https://github.com/DumeM2b/Tp-Architecture-BI-SORNET-THUILLER-MACHEDA/assets/163656850/41517cd5-fdf6-441b-8f7c-ceeb4e7c83e9">
+<img  align="left" width="330" alt="MicrosoftTeams-image (15)" src="https://github.com/DumeM2b/Tp-Architecture-BI-SORNET-THUILLER-MACHEDA/assets/163656850/25fbeed1-5bf7-4434-8e96-653b18380896">
+<img width="450" alt="MicrosoftTeams-image (14)" src="https://github.com/DumeM2b/Tp-Architecture-BI-SORNET-THUILLER-MACHEDA/assets/163656850/14c3f967-d41c-4bb9-9e38-0070e6ea4d2e">
+<img width="450"  alt="MicrosoftTeams-image (11)" src="https://github.com/DumeM2b/Tp-Architecture-BI-SORNET-THUILLER-MACHEDA/assets/163656850/41517cd5-fdf6-441b-8f7c-ceeb4e7c83e9">
 </p>
 
 ### Étape 5 : Chargement des Données dans les Tables
